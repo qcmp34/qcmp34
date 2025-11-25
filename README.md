@@ -149,20 +149,13 @@ Application of hybrid quantum-classical computing to accelerate production proce
 - **Womanium & WISER Quantum Program 2025** - Quantum walks and simulation
 - **AztecHacks 2024** - SDSU Quantum Computing Club hackathon
 
-### Industry Partners
-- U.S. Naval Nuclear Laboratory
-- Fraunhofer Institute (ITWM)
-- Classiq Technologies
-- IBM Quantum
-- WISER (Women in STEM Education & Research)
-
 ---
 
 ## 📊 Project Statistics
 
 - **Total Projects:** 4 major quantum computing projects
 - **Quantum Frameworks:** 3+ (Qiskit, PennyLane, Classiq)
-- **Programming Languages:** Python, Jupyter
+- **Programming Languages:** Python
 - **Focus Areas:** Quantum Algorithms, QML, Quantum Simulation
 - **Competitions:** 2 hackathons/programs completed
 
@@ -171,7 +164,6 @@ Application of hybrid quantum-classical computing to accelerate production proce
 ## 🔬 Research Interests
 
 - **Quantum Machine Learning** - Exploring quantum advantage in ML tasks
-- **NISQ-Era Algorithms** - Developing noise-resilient quantum algorithms
 - **Quantum Simulation** - Modeling physical and statistical systems
 - **Hybrid Quantum-Classical Computing** - Combining quantum and classical resources
 - **Quantum Walks** - Applications in optimization and sampling
@@ -184,23 +176,10 @@ Application of hybrid quantum-classical computing to accelerate production proce
 I'm always interested in collaborating on quantum computing projects, especially those involving:
 - Novel quantum algorithm development
 - Quantum machine learning applications
-- NISQ-era optimization techniques
 - Hybrid quantum-classical systems
 - Real-world quantum computing use cases
 
 Feel free to explore the repositories and reach out for collaboration opportunities!
-
----
-
-## 🌟 Acknowledgments
-
-Special thanks to:
-- **Womanium** for providing world-class quantum computing education and project opportunities
-- **WISER** for organizing the Quantum Program 2025
-- **Classiq Technologies** for their quantum software platform and partnership
-- **Fraunhofer Institute (ITWM)** for the QML production optimization project
-- **U.S. Naval Nuclear Laboratory** for the quantum walks collaboration
-- **SDSU Quantum Computing Club** for hosting AztecHacks 2024
 
 ---
 
@@ -210,6 +189,5 @@ Individual project licenses are specified in their respective repositories. Plea
 
 ---
 
-*Last Updated: November 2024*
+*Last Updated: November 2025*
 
-**Note:** These projects represent ongoing research and development in quantum computing. Some implementations may be experimental or proof-of-concept in nature as the field continues to evolve rapidly.
