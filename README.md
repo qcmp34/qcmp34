@@ -115,7 +115,7 @@ Application of hybrid quantum-classical computing to accelerate production proce
 
 ### Quantum Computing Frameworks
 - **Qiskit** - IBM
-- **PennyLane** - Quantum machine learning library
+- **PennyLane** - Xanadu - open-source Python framework for quantum programming
 - **Classiq** - Classiq Technologies
 
 ---
