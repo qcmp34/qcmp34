@@ -120,17 +120,5 @@ Application of hybrid quantum-classical computing to accelerate production proce
 
 ---
 
-## 📫 Connect & Collaborate
-
-I'm always interested in collaborating on quantum computing projects, especially those involving:
-- Novel quantum algorithm development
-- Quantum machine learning applications
-- Hybrid quantum-classical systems
-- Real-world quantum computing use cases
-
-Feel free to explore the repositories and reach out for collaboration opportunities!
-
----
-
 *Last Updated: November 2025*
 
