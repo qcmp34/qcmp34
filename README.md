@@ -114,60 +114,9 @@ Application of hybrid quantum-classical computing to accelerate production proce
 ## 🛠️ Technical Skills
 
 ### Quantum Computing Frameworks
-- **Qiskit** - IBM's quantum computing framework
+- **Qiskit** - IBM
 - **PennyLane** - Quantum machine learning library
-- **Classiq** - High-level quantum software platform
-- **PyTorch** - For hybrid quantum-classical models
-
-### Quantum Algorithms
-- Variational Quantum Algorithms (VQA, VQE, QAOA)
-- Quantum Machine Learning (QCNN, QNN, VQC)
-- Quantum Walks and Monte Carlo Methods
-- Quantum Fourier Transform (QFT)
-- Quantum Phase Estimation (QPE)
-- Shor's Algorithm, HHL Algorithm
-- Hamiltonian Simulation
-
-### Quantum Hardware Experience
-- NISQ-era quantum computers
-- Noise modeling and mitigation
-- Circuit optimization and transpilation
-- Hardware-agnostic algorithm design
-
-### Programming & Tools
-- Python (NumPy, SciPy, Matplotlib)
-- Jupyter Notebooks
-- Git/GitHub
-- Quantum circuit design and visualization
-
----
-
-## 🎓 Programs & Competitions
-
-### Active Participation
-- **Womanium Quantum+AI 2024** - Completed multiple industry projects
-- **Womanium & WISER Quantum Program 2025** - Quantum walks and simulation
-- **AztecHacks 2024** - SDSU Quantum Computing Club hackathon
-
----
-
-## 📊 Project Statistics
-
-- **Total Projects:** 4 major quantum computing projects
-- **Quantum Frameworks:** 3+ (Qiskit, PennyLane, Classiq)
-- **Programming Languages:** Python
-- **Focus Areas:** Quantum Algorithms, QML, Quantum Simulation
-- **Competitions:** 2 hackathons/programs completed
-
----
-
-## 🔬 Research Interests
-
-- **Quantum Machine Learning** - Exploring quantum advantage in ML tasks
-- **Quantum Simulation** - Modeling physical and statistical systems
-- **Hybrid Quantum-Classical Computing** - Combining quantum and classical resources
-- **Quantum Walks** - Applications in optimization and sampling
-- **Production Optimization** - Real-world industrial applications of QML
+- **Classiq** - Classiq Technologies
 
 ---
 
@@ -180,12 +129,6 @@ I'm always interested in collaborating on quantum computing projects, especially
 - Real-world quantum computing use cases
 
 Feel free to explore the repositories and reach out for collaboration opportunities!
-
----
-
-## 📝 License
-
-Individual project licenses are specified in their respective repositories. Please refer to each project for specific licensing information.
 
 ---
 
